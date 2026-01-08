@@ -1,4 +1,4 @@
--- 26/01/07
+-- 26/01/08
 -- 어린 동물 찾기
 SELECT ANIMAL_ID, NAME
 FROM ANIMAL_INS
